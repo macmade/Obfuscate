@@ -12,7 +12,8 @@ Obfuscate
 
 ### About
 
-C/C++ machine code obfuscation.
+C/C++ machine code obfuscation.  
+Code example for the [x86-64 Machine Code Obfuscation](http://www.xs-labs.com/en/blog/2017/11/07/x86-64-machine-code-obfuscation/) article.
 
 License
 -------
